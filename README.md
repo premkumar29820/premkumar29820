@@ -108,11 +108,13 @@ const premkumar = {
 
 <div align="center">
 
-| Degree | Institution | Focus |
-|---|---|---|
-| B.Tech, Biotechnology | SRM Institute of Science & Technology, Chennai | Applied machine learning to RNA-seq data during a study abroad research program at Tokyo University of Science, Japan (toxicology research) |
+| Degree | Institution | CGPA | Focus |
+|---|---|---|---|
+| B.Tech, Biotechnology | SRM Institute of Science & Technology, Chennai | 7.94 | Applied machine learning to RNA-seq data during a study abroad research program at Tokyo University of Science, Japan (toxicology research) |
 
 </div>
+
+> 🟢 **Fresher** — actively looking for my first full-time / internship opportunity as a Full Stack Developer.
 
 ## 📚 Currently Learning
 
