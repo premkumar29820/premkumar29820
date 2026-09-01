@@ -27,7 +27,7 @@
 
 <br/>
 
-<img align="right" width="360" height="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 
 ## 👨‍💻 About Me
 
