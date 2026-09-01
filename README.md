@@ -53,7 +53,7 @@ const premkumar = {
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:00f2fe&height=4&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
