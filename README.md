@@ -26,8 +26,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:00f2fe&height=4&section=header" width="100%"/>
 
 <br/>
-<img align="right" width="380"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png"/>
+<a href="https://medium.com/huawei-developers/object-oriented-programming-101-abstraction-encapsulation-inheritance-and-polymorphism-46e3cbee86bd">
+  <img align="right"
+       width="380"
+       src="YOUR_IMAGE_URL"/>
+</a>
 
 ## 👨‍💻 About Me
 
