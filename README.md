@@ -23,12 +23,12 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,50:4facfe,100:00f2fe&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:2575fc&height=3&section=header" width="100%"/>
 
 <br/>
 
-<img align="right" width="380"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ## 👨‍💻 About Me
 
 \`\`\`javascript
